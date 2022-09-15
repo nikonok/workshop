@@ -1,0 +1,2 @@
+#define Workshop_VERSION_MAJOR @Workshop_VERSION_MAJOR@
+#define Workshop_VERSION_MINOR @Workshop_VERSION_MINOR@

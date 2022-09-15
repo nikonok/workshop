@@ -1,0 +1,4 @@
+build
+.vscode
+tasks1/assembling/task.cpp
+tasks2/going_to_details/CMakeLists.txt
